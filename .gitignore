@@ -1,0 +1,7 @@
+
+*.mdb
+obj
+*.userprefs
+.DS_Store
+*.pdb
+Debug
